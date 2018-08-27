@@ -4,7 +4,7 @@
 
 
 ### How to run code using commands :
-########## first define directory in client path called files and create text file called input.txt contains all requests :
+###### first define directory in client path called files and create text file called input.txt contains all requests :
 - GET file_name host_name port_number
 - Go to server path and type :
 	g++ server.cpp -o s.out
